@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业研究"
+  short_description: "初五的Skill：建立可复核的行业边界、规模、竞争、利润池与行动判断"
+  default_prompt: "使用$industry-research完成一份决策级行业研究，并标明证据边界。"

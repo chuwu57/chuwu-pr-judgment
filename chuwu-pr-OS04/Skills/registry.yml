@@ -1,0 +1,101 @@
+version: 1
+skills:
+  follow-loop:
+    path: Skills/Knowledge-Intelligence/follow-loop
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-08-11'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Follow-Loop.md
+    runtime: enabled
+  spoken-content-extractor:
+    path: Skills/Knowledge-Intelligence/spoken-content-extractor
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    runtime: enabled
+  copy-lens-review:
+    path: Skills/PR/copy-lens-review
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Message-Review.md
+    runtime: enabled
+  hot-public-opinion-analysis:
+    path: Skills/PR/hot-public-opinion-analysis
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Public-Opinion-Response-Decision.md
+    runtime: enabled
+  judgment-hub:
+    path: Skills/PR/judgment-hub
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Public-Opinion-Response-Decision.md
+    runtime: enabled
+  media-narrative-analysis:
+    path: Skills/PR/media-narrative-analysis
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    runtime: enabled
+  pr-consumer-research:
+    path: Skills/PR/pr-consumer-research
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    runtime: enabled
+  pr-contingency-plan:
+    path: Skills/PR/pr-contingency-plan
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Crisis-Contingency-Plan.md
+    runtime: enabled
+  press-release:
+    path: Skills/PR/press-release
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-24'
+    runtime: enabled
+  annual-pr-strategy:
+    path: Skills/PR/annual-pr-strategy
+    maturity: experimental
+    validation_status: unverified
+    test_level: static
+    last_tested: '2026-08-25'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Annual-PR-Strategy.md
+    runtime: enabled
+  consumer-research:
+    path: Skills/Research/consumer-research
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-07-23'
+    runtime: enabled
+  industry-media-research:
+    path: Skills/Research/industry-media-research
+    maturity: experimental
+    validation_status: unverified
+    test_level: static
+    last_tested: '2026-08-03'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Industry-Media-Research.md
+    runtime: enabled
+  industry-research:
+    path: Skills/Research/industry-research
+    maturity: experimental
+    validation_status: verified
+    test_level: real
+    last_tested: '2026-08-13'
+    source_workflow: Domains/PR/45-Workflows/Workflow_Industry-Research.md
+    runtime: enabled

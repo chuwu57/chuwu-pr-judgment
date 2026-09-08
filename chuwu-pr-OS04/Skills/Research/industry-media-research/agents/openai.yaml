@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业媒体研究"
+  short_description: "初五的Skill：研究不同媒体如何建构行业认知，拆解议题、写法、结构与证据"
+  default_prompt: "使用$industry-media-research研究一个行业如何被不同媒体理解和呈现，提炼共识、分歧、叙事框架与认知盲区。"

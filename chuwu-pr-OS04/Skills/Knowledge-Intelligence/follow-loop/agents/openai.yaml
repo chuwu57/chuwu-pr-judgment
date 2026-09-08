@@ -1,0 +1,4 @@
+interface:
+  display_name: "Follow Loop"
+  short_description: "初五的Skill：统一追踪AI、PR、Case、具身智能与奢侈品"
+  default_prompt: "使用$follow-loop执行「启动Follow Loop，更新一下」；「FL一下」为同一入口。默认五线增量更新、聚合并写入正确位置；本轮明确限定时按真实所选范围执行。"

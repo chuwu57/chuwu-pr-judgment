@@ -1,0 +1,4 @@
+interface:
+  display_name: "口述内容提取"
+  short_description: "初五的Skill：从播客、直播、音视频或转录中提取可复用内容资产"
+  default_prompt: "使用$spoken-content-extractor处理这份口述内容：先判断知识增量、定点核验或全量转写模式，再生成所需的证据、摘要或学习材料。"
